@@ -6,6 +6,7 @@ body{
 
 .jumbotron{
     background: rgba(0, 0, 0, 0.2);
+    padding: 5%;
 }
 
 .jumbotron h1{
@@ -17,6 +18,7 @@ body{
 }
 
 .blockTable{
+    padding: 2%;
     text-align: center;
     width: 80%;
     margin: auto;
@@ -38,4 +40,51 @@ h1{
 .homepageButton a{
     color: #fff;
     text-decoration: none;
+}
+
+.orangetext{
+    color: orangered;
+}
+
+.orangetext h1{
+    text-align: center;
+}
+
+.jumbotronImg{
+    -webkit-box-shadow: 0px 0px 56px -1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 56px -1px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 56px -1px rgba(0,0,0,0.75);
+}
+
+.jumbotronText{
+    padding-top: 5%;
+}
+
+.row img{
+    margin-top: 5%;
+
+}
+
+.footer{
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+.footerCol{
+    padding: 5%;
+    text-align: center;
+}
+
+.footerCol p{
+    margin: 0;
+}
+
+.footerCol-left{
+    padding-left: 20%;
+    text-align: right;
+    border-right: 2px solid #151921;
+}
+
+.footerCol-right{
+    padding-right: 20%;
+    text-align: left;
 }
