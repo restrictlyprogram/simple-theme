@@ -22,7 +22,10 @@ body{
     margin: auto;
 }
 
-.blockTable h1{
+h1{
     font-weight: 700;
+}
+
+.blockTable h1{
     color: orangered;
 }
