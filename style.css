@@ -34,3 +34,8 @@ h1{
     background-color:  orangered;
     color: #fff;
 }
+
+.homepageButton a{
+    color: #fff;
+    text-decoration: none;
+}
