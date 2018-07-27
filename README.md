@@ -6,3 +6,5 @@
 >how?
 **place in footer:**
 ...simple-theme by <a href="http://github.com/builtbynabil">builtbynabil</a>...
+
+<a href="http://builtbynabil.github.com/simple-theme">Website Itself</a>
