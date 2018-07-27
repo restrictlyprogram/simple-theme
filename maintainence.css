@@ -1,0 +1,14 @@
+body{
+    background-color: rgba(0,0,0,0.1);
+    font-family: 'Roboto';
+    text-align: center;
+    padding: 10%;
+}
+
+.material-icons{
+    font-size: 10em;
+}
+
+h1{
+    font-weight: bold;
+}

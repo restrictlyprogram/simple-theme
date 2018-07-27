@@ -48,6 +48,8 @@ h1{
 
 .orangetext h1{
     text-align: center;
+    background:  rgba(0,0,0,0.3);
+    padding: 5%;
 }
 
 .jumbotronImg{
@@ -57,7 +59,7 @@ h1{
 }
 
 .jumbotronText{
-    padding-top: 5%;
+    padding-top: 15%;
 }
 
 .row img{
@@ -87,4 +89,8 @@ h1{
 .footerCol-right{
     padding-right: 20%;
     text-align: left;
+}
+
+.material-icons{
+    font-size: 3em;
 }
