@@ -1,9 +1,11 @@
 # Simple-Theme By builtbynabil
-~~images are not responsive, look in main.js for more info~~
+This is a simple theme that I got to cook up in 1 hours or so.
 
-<a href="https://builtbynabil.github.io/simple-theme/" target="_blank">Website Itself</a>
+[View it here](https://bynabil.github.io/simple-theme)
+
+## Usage:
+Download the source code and edit the HTML file however you like, Somehow, this theme is really not recommended for anyone's use in general
 
 
-**This theme is free but _please give credit to me_**
-Place in footer:
-theme by builtbynabil [anchor tag link: http://github.com/builtbynabil]
+## Please note that this project is no longer maintained!
+## This project is free to use under the GNU General Public License v3.0
